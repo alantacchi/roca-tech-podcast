@@ -17,4 +17,3 @@ Um episódio que explora a integração entre tecnologia rural e robótica.
 
 ## 📝 Autor
 Alan Tadeu Tacchi Dias Campos  
-
