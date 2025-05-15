@@ -1,0 +1,25 @@
+# Prompt Inicial
+
+Seja o roteirista. Crie o roteiro de um episódio de podcast para um bootcamp, com base nas minhas expectativas reais.
+Tenho um terreno na zona rural, um sonho antigo que consegui realizar. No entanto, a realidade é dura: trabalho na cidade durante a semana e só posso ir ao terreno aos fins de semana. O mato cresce rápido, não consigo criar animais por falta de presença diária, e as tarefas se acumulam. Em vez de descansar, volto mais cansado do que fui.
+Cheguei a pensar em vender tudo. Mas, ao acompanhar as recentes evoluções da robótica — especialmente com a inteligência artificial embarcada — uma esperança surgiu: e se eu puder, em cinco ou dez anos, ter um robô para cuidar das tarefas da roça?
+Um robô que entenda comandos, me envie vídeos, cuide da horta, dos peixes, das galinhas, da segurança… e ainda me faça companhia. Não tenho condições de pagar um funcionário, mas talvez possa investir em tecnologia quando ela estiver mais acessível.
+A proposta é criar um episódio que introduza essa expectativa e faça um breve ensaio imaginativo, como se já estivéssemos no futuro e eu estivesse vivendo essa experiência com meu assistente robótico rural.
+
+---
+
+# Prompt para capa no Sora
+
+Crie uma imagem realista para a capa de um podcast com o título "Do Bootcamp à Roça Tech" escrito em destaque.
+A cena deve mesclar elementos de uma roça tradicional com alta tecnologia. Mostre um pequeno terreno rural com vegetação, horta, galinheiro e natureza ao fundo.
+No centro da imagem, um robô moderno (com aparência funcional, mas amigável) está realizando tarefas como regar a horta ou alimentando os animais.
+Ao lado do robô, o dono do terreno (um homem comum, com expressão de satisfação e alívio) observa a cena sentado ou de pé, com aparência de quem está em paz com a natureza e orgulhoso da tecnologia.
+A estética deve transmitir harmonia entre o campo e a inovação.
+O título "Do Bootcamp à Roça Tech" deve estar visível, em fonte moderna, mas integrada ao estilo da imagem.---
+
+# Prompt para adaptar o texto para ElevenLabs
+
+Agora preciso que você adapte o texto do podcast para o formato SSML compatível com a ElevenLabs.  
+Utilize a tag <speak> e insira pausas com <break time="xxxms"/> para marcar os tempos da fala.  
+Mantenha a estrutura e o tom original do texto, mas ajuste a entonação com tags como <emphasis> onde fizer sentido.  
+A ideia é que a narração soe natural, pausada e envolvente, com destaque para partes emocionais ou importantes.
